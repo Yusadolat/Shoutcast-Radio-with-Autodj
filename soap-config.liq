@@ -17,7 +17,7 @@ radio = myplaylist
 
 output.shoutcast(%mp3,
         host = "IP",
-        port = 8092,
+        port = 8000,
         name = "Stream name",
         password = "password",
         radio
